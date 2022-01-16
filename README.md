@@ -12,4 +12,4 @@ Just a simple password generator with several basic options, which includes 8-16
 At the moment you can only access this app by cloning in this repo and run it on your own machine. Simply clone it, run `npm install` to install the dependencies, and do `npm start`.
 
 ### Screenshots
-<img src="./assets/ss.png " width=720/>
+<img src="./assets/ss2.png " width=720/>
